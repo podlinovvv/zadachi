@@ -58,6 +58,7 @@
 ---
 # Задача 16.
 ![z16](https://github.com/podlinovvv/zadachi/blob/master/img/z16_1.png 'z1')
+
 ![z16](https://github.com/podlinovvv/zadachi/blob/master/img/z16_2.png 'z1')
 
 ## Вывод:
@@ -79,3 +80,11 @@
 ![z18](https://github.com/podlinovvv/zadachi/blob/master/img/z18_2.png 'z18')
 ## Пример некорректного ввода:
 ![z18](https://github.com/podlinovvv/zadachi/blob/master/img/z18_3.png 'z18')
+
+---
+# Задача 19.
+![z19](https://github.com/podlinovvv/zadachi/blob/master/img/z19_1.png 'z19')
+
+![z19](https://github.com/podlinovvv/zadachi/blob/master/img/z19_2.png 'z19')
+##Результат:
+![z19](https://github.com/podlinovvv/zadachi/blob/master/img/z19_3.png 'z19')
