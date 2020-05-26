@@ -71,3 +71,11 @@
 ![z17](https://github.com/podlinovvv/zadachi/blob/master/img/z17_3.png 'z17')
 ## Вывод:
 ![z17](https://github.com/podlinovvv/zadachi/blob/master/img/z17_4.png 'z17')
+
+---
+# Задача 18.
+![z18](https://github.com/podlinovvv/zadachi/blob/master/img/z18.png 'z18')
+## Пример корректного ввода:
+![z18](https://github.com/podlinovvv/zadachi/blob/master/img/z18_2.png 'z18')
+## Пример некорректного ввода:
+![z18](https://github.com/podlinovvv/zadachi/blob/master/img/z18_3.png 'z18')
