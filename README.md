@@ -1,23 +1,30 @@
 # zadachi
 
 # 1.
-br
+
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z1.png 'z1')
+---
 # 2.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z2.png 'z1')
+---
 # 3.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z3.png 'z1')
+
+---
 # 4.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z4.png 'z1')
+---
 # 5.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z5.png 'z1')
+---
 # 6.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z6.png 'z1')
+---
 # 7.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z7.png 'z1')
