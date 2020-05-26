@@ -41,6 +41,7 @@
 ---
 # Задача 12
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z12.png 'z1')
+## Вывод:
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z12_2.png 'z1')
 
 ---
