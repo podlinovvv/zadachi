@@ -4,49 +4,54 @@
 ---
 # Задача 2.
 
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z2.png 'z1')
+![z2](https://github.com/podlinovvv/zadachi/blob/master/img/z2.png 'z1')
 ---
 # Задача 3.
 
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z3.png 'z1')
+![z3](https://github.com/podlinovvv/zadachi/blob/master/img/z3.png 'z1')
 
 ---
 # Задача 4.
 
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z4.png 'z1')
+![z4](https://github.com/podlinovvv/zadachi/blob/master/img/z4.png 'z1')
 ---
 # Задача 5.
 
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z5.png 'z1')
+![z5](https://github.com/podlinovvv/zadachi/blob/master/img/z5.png 'z1')
 ---
 # Задача 6.
 
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z6.png 'z1')
+![z6](https://github.com/podlinovvv/zadachi/blob/master/img/z6.png 'z1')
 ---
 # Задача 7.
 
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z7.png 'z1')
+![z7](https://github.com/podlinovvv/zadachi/blob/master/img/z7.png 'z1')
 ---
 # Задача 8.
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z8.png 'z1')
+![z8](https://github.com/podlinovvv/zadachi/blob/master/img/z8.png 'z1')
 ---
 # Задача 9.
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z9.png 'z1')
+![z9](https://github.com/podlinovvv/zadachi/blob/master/img/z9.png 'z1')
 ---
 # Задача 10.
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z10.png 'z1')
+![z10](https://github.com/podlinovvv/zadachi/blob/master/img/z10.png 'z1')
 ---
-# Задача 11
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z11.png 'z1')
+# Задача 11.
+![z11](https://github.com/podlinovvv/zadachi/blob/master/img/z11.png 'z1')
 ---
-# Задача 12
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z12.png 'z1')
-
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z12_2.png 'z1')
+# Задача 12.
+![z12](https://github.com/podlinovvv/zadachi/blob/master/img/z12.png 'z1')
+## Вывод:
+![z12](https://github.com/podlinovvv/zadachi/blob/master/img/z12_2.png 'z1')
 
 ---
 # Задача 13.
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z13.png 'z1')
+![z13](https://github.com/podlinovvv/zadachi/blob/master/img/z13.png 'z1')
 ---
-# Задача 12
-![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z14.png 'z1')
+# Задача 14.
+![z14](https://github.com/podlinovvv/zadachi/blob/master/img/z14.png 'z1')
+---
+# Задача 15.
+![z15](https://github.com/podlinovvv/zadachi/blob/master/img/z14.png 'z1')
+## Вывод:
+![z15](https://github.com/podlinovvv/zadachi/blob/master/img/z14.png 'z1')
