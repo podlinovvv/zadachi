@@ -1,53 +1,53 @@
 # zadachi
 
-# Çàäà÷à 1.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 1.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z1.png 'z1')
 ---
-# Çàäà÷à 2.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 2.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z2.png 'z1')
 ---
-# Çàäà÷à 3.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 3.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z3.png 'z1')
 
 ---
-# Çàäà÷à 4.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 4.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z4.png 'z1')
 ---
-# Çàäà÷à 5.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 5.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z5.png 'z1')
 ---
-# Çàäà÷à 6.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 6.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z6.png 'z1')
 ---
-# Çàäà÷à 7.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 7.
 
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z7.png 'z1')
 ---
-# Çàäà÷à 8.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 8.
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z8.png 'z1')
 ---
-# Çàäà÷à 9.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 9.
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z9.png 'z1')
 ---
-# Çàäà÷à 10.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 10.
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z10.png 'z1')
 ---
-# Çàäà÷à 11
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 11
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z11.png 'z1')
 ---
-# Çàäà÷à 12
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 12
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z12.png 'z1')
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z12_2.png 'z1')
 
 ---
-# Çàäà÷à 13.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 13.
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z13.png 'z1')
 ---
-# Çàäà÷à 14.
+# Ð—Ð°Ð´Ð°Ñ‡Ð° 12
 ![z1](https://github.com/podlinovvv/zadachi/blob/master/img/z14.png 'z1')
