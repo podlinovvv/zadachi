@@ -62,3 +62,9 @@
 
 ## Вывод:
 ![z16](https://github.com/podlinovvv/zadachi/blob/master/img/z16_3.png 'z1')
+---
+# Задача 17.
+![z17](https://github.com/podlinovvv/zadachi/blob/master/img/z17_1.png 'z17')
+![z17](https://github.com/podlinovvv/zadachi/blob/master/img/z17_2.png 'z17')
+![z17](https://github.com/podlinovvv/zadachi/blob/master/img/z17_3.png 'z17')
+![z17](https://github.com/podlinovvv/zadachi/blob/master/img/z17_4.png 'z17')
