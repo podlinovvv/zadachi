@@ -86,5 +86,5 @@
 ![z19](https://github.com/podlinovvv/zadachi/blob/master/img/z19_1.png 'z19')
 
 ![z19](https://github.com/podlinovvv/zadachi/blob/master/img/z19_2.png 'z19')
-##Результат:
+## Результат:
 ![z19](https://github.com/podlinovvv/zadachi/blob/master/img/z19_3.png 'z19')
